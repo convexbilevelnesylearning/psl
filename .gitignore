@@ -1,0 +1,23 @@
+# System files #
+################
+.DS_Store
+
+# Compiled sources #
+####################
+target
+classpath.out
+
+# IDE metadata #
+####################
+.classpath
+.project
+.settings
+.idea/
+*.iml
+
+# Editor Temporary #
+####################
+*.swp
+
+.secrets
+dependency-reduced-pom.xml
